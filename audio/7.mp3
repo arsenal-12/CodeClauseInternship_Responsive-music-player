@@ -1,0 +1,18 @@
+<!doctype html>
+    <html lang="en" >
+      <head>
+        <title>Spotify</title>
+        <meta charset="UTF-8">
+        <meta name="robots" content="noindex">
+        <link rel="icon" type="image/png" size="32x32" href="https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png">
+        <link rel="icon" type="image/png" size="16x16" href="https://open.spotifycdn.com/cdn/images/favicon16.1c487bff.png">
+        
+      </head>
+      <body>
+        
+        <iframe id="urlSchemeIframeHandler" title="urlSchemeIframeHandler" style="visibility: hidden"></iframe>
+        <script type="application/json"  id="urlSchemeConfig">{"urlScheme":"spotify://track/6HGoVbCUr63SgU3TjxEVj6?si=uJfBLLAHQtiVSi-5y5mKZQ&dlsi=3d0e192a4553482e","redirectUrl":"https://open.spotify.com/track/6HGoVbCUr63SgU3TjxEVj6?si=uJfBLLAHQtiVSi-5y5mKZQ&nd=1"}</script>
+        <script src="https://open.spotifycdn.com/cdn/js/urlScheme.6539b85d.js"></script>
+      </body>
+    </html>
+  
